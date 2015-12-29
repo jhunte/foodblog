@@ -1,6 +1,6 @@
 name = FoodStrap
 description = A sub-theme of Bootstrap with necessary add-ins and mixins.
 core = 7.x
-base theme = Bootstrap
+base theme = bootstrap
 
 stylesheets[all][] = css/main.css
